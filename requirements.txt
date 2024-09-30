@@ -1,0 +1,8 @@
+openai
+pandas
+nltk
+tiktoken
+cohere
+langchain
+chromadb
+unstructured
